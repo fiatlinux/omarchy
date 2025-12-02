@@ -153,6 +153,8 @@ mdp
 micro
 ncdu
 nmap
+postgresql
+python-pymongo
 python-pytorch
 
 
