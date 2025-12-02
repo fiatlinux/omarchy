@@ -142,8 +142,10 @@ yay
 zoxide
 
 alacritty
+apache
 caligula
 distrobox
+drupal
 emacs
 filezilla
 keepassxc
@@ -153,6 +155,9 @@ mdp
 micro
 ncdu
 nmap
+php
+php-mongodb
+php-pgsql
 postgresql
 python-pymongo
 python-pytorch
